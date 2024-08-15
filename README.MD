@@ -58,3 +58,4 @@ QA Analyst
 
 - **Design de Teste:** Uma visão detalhada do planejamento dos testes com foco em como eles foram criados para garantir a qualidade do formulário.
 - **Casos de Teste e Classes de Equivalência:** Informações sobre como os testes foram pensados para cobrir diversos cenários e validar as entradas do usuário.
+- **Contribuição:** Um convite para que outros contribuam com o projeto.
